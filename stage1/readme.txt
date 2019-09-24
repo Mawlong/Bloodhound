@@ -1,0 +1,1 @@
+Same BG same font
