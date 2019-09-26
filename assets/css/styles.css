@@ -29,6 +29,11 @@ body {
   max-height: 75px;
 }
 
+#yoyo {
+  background-image: url(../../assets/img/firstG.gif);
+  padding-top: 500px;
+  color: #009556;
+}
 #firstDiv {
   padding: 100px;
   cursor: default;
@@ -137,18 +142,15 @@ body {
 }
 
 #stage612 {
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 150px;
-  color: rgb(255,93,0);
+  color: rgb(254,254,254);
 }
 
 #stage6123 {
   background-image: url(../../assets/img/alfons-morales-YLSwjSy7stw-unsplash.jpg);
   padding: 500px;
   background-size: cover;
-}
-
-#stageDescp {
 }
 
 img {
